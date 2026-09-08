@@ -8,7 +8,7 @@ InterviewIQ.AI helps job seekers prepare for interviews by leveraging AI to anal
 #Project link 
 
 ✨ Features
-
+**  WE use Docker To make frontend and Backend in Container
 📄 Upload Resume (PDF)
 🎙️ Voice-Based AI Interviews
 🤖 AI-Generated Interview Questions
